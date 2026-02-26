@@ -120,5 +120,5 @@ The MVP ships with a single category: `electrician`. To add more, e.g. `plumber`
      - Add a `category` parameter to fetch different categories, or
      - Remove the hard-coded filter and control it from the calling screen.
 
-With these changes, SkillLink can evolve from “electricians only” into a broader local services marketplace.
+
 
