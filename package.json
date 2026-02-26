@@ -1,0 +1,11 @@
+{
+  "name": "nebula",
+  "private": true,
+  "scripts": {
+    "start": "npm start --prefix skilllink",
+    "start:tunnel": "npm run start:tunnel --prefix skilllink",
+    "start:lan": "npm run start:lan --prefix skilllink",
+    "android": "npm run android --prefix skilllink",
+    "ios": "npm run ios --prefix skilllink"
+  }
+}
